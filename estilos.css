@@ -445,10 +445,6 @@ footer {
 .margin-bot-2{
     margin-bottom: 2rem;
 }
-
-.padding-bot-1{
-    padding-bottom: 1rem;
-}
 /* Estilos generales del contenedor */
 .servicios-grid {
     display: flex; 
