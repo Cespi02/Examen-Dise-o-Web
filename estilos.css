@@ -328,6 +328,7 @@ footer {
 }
 
 .soporte-top-container {
+    width: 100%;
     padding: 20px 0;
 }
 
@@ -400,6 +401,7 @@ footer {
 @media (max-width: 768px) {
     .soporte-container {
         margin: 0 auto; 
+        padding: 20px 10px;
     }
     
     .padding-desc-soporte{
@@ -416,9 +418,8 @@ footer {
     }
 
     .soporte-top-container{
-    padding: 10px 0px;
-    margin-right: 1rem;
-    margin-left: 1rem;
+        width: 90%;
+        padding: 10px 0px;
     }
 
     .soporte-item{
